@@ -47,15 +47,15 @@ $textToSend = "(text to let user know that he was banned)";
     
 > **Questions in poll**
 >
-> <img src="https://im4.ezgif.com/tmp/ezgif-4-42b41271fe.gif">
+> <img src="https://i.ibb.co/cXd0P2c/2.gif">
     
 > **Approvement by admin**
 >    
-> <img src="https://im.ezgif.com/tmp/ezgif-1-e44550c411.gif">
+> <img src="https://i.ibb.co/KNXfPtr/1.gif">
     
 > **Closest event button (example of button in chat)**
 >    
-> <img src="https://im.ezgif.com/tmp/ezgif-1-47d63fe18b.gif">
+> <img src="https://i.ibb.co/DVNWTcf/ezgif-1-47d63fe18b.gif">
     
 </p>
 
